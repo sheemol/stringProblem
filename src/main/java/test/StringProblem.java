@@ -15,7 +15,7 @@ public class StringProblem{
 		return newString;
 	}
 	
-	
+	// String replace character one at a time
 	public String replaceCharInLoop(String s, char ch){
 		StringBuilder str= new StringBuilder();
 		String newString=null;
