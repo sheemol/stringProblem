@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+
+<suite name="TestNgMavenSuite">
+<test name="Stringreplace">
+<classes>
+<class name="test.StringProblem"/>
+</classes>
+
+
+</test>
+
+</suite>
